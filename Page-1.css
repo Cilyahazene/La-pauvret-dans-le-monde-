@@ -1,0 +1,124 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 812px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 9px 99px 0 54px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 33px 33px 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 441px;
+  margin: 78px 33px 34px 54px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 2015px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  min-height: 500px;
+  width: 955px;
+  margin: 69px auto 0;
+}
+
+.u-section-2 .u-custom-html-2 {
+  min-height: 514px;
+  margin: 106px 182px 0 38px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.25rem;
+  margin: 126px 45px 60px 69px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 940px;
+  }
+
+  .u-section-2 .u-custom-html-2 {
+    margin-right: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-custom-html-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-custom-html-1 {
+  min-height: 325px;
+  margin: 28px 48px 60px 83px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-custom-html-1 {
+    height: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-custom-html-1 {
+  min-height: 413px;
+  margin: -85px 52px 60px 70px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-custom-html-1 {
+    height: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 500px;
+}
